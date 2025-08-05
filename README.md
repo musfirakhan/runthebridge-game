@@ -6,7 +6,6 @@ A 3D game built with Unity where player navigate across bridges while avoiding o
 
 - 3D movement with jumping mechanics
 - Health system with damage from obstacles
-- Multiple game scenes (home, main, options, gameover)
 - Background audio system
 - Realistic water effects using Crest Ocean System
 - Unity's new Input System for responsive controls
